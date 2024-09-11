@@ -5,7 +5,7 @@
     width: 350px;
     height: 650px;
     background-color: #201f23;
-    margin: 20px;
+    margin: 25px;
     border-radius: 5%;
     box-shadow: 8px 5px 5px gray;
 }
@@ -102,7 +102,6 @@ button {
     border: black solid 0.5px;
     font-size: 1em;
     justify-self: center;
-    margin-top: 10px;
 }
 .num {
     background-color: #030303;
